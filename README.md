@@ -1,2 +1,2 @@
-# OIBSIP2
+# Tribute Page
 Tribute page using HTML, CSS
